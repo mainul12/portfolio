@@ -1,0 +1,1 @@
+This folder contains demonstrations of various statistical tests and how they are implemented using synthetic data on imagined scenarios using Python, R and Wolfram Mathematica.
